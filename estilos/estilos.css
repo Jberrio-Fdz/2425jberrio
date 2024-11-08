@@ -90,7 +90,11 @@ ul{
     color:#411111 ;
     padding: 100px;
     text-align: center;
-    background:url("/imagenes/galeria1.jpg") no-repeat center fixed;
+    background-image: url("/imagenes/galeria1.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
     height: 200px;
 }
 .tinicio{
