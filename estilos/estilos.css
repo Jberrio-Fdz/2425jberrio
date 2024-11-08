@@ -87,10 +87,10 @@ ul{
     padding: 25px;
 }
 .inicio{
-    color: #411111;
+    color:#411111 ;
     padding: 100px;
     text-align: center;
-    background: url("imagenes/galeria1.jpg") no-repeat center fixed;
+    background:url("/imagenes/galeria1.jpg") no-repeat center fixed;
     height: 200px;
 }
 .tinicio{
