@@ -8,16 +8,23 @@
 		<language>es-es</language>
 <!--
       <item>
-        <title>evento Marzo</title> 
-          <link>https://jberrio-fdz.github.io/2425jberrio/eventos</link> 
-          <description>Cada mes tenemos muchos eventos</description> 
+        <title>Nueva actividad</title> 
+          <link>https://jberrio-fdz.github.io/2425jberrio/actividades.html</link> 
+          <description>En Marzo comenzamos con la actividad meriendas creativas y saludables</description>
+		  <author>Gastronomika</author>
+		  <pubDate>Fri, 14 Feb 2025</pubDate>
+		  
       </item>
-
+-->
 	  <item>
-        <title>evento Abril</title> 
-          <link>https://jberrio-fdz.github.io/2425jberrio/eventos</link> 
-          <description>Cada mes tenemos muchos eventos</description>
+        <title>Abrimos un blog</title> 
+          <link>https://jberrio-fdz.github.io/2425jberrio/qsomos.html</link> 
+          <description>En Febrero comenzamos con el blog de la sociedad</description>
+		  <author>Gastronomika</author>
+		  <pubDate>Mon, 10 Feb 2025</pubDate>
+		  
       </item>
--->	  
+	 
   </channel>
 </rss>
+
