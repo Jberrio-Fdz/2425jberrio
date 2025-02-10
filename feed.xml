@@ -6,7 +6,6 @@
        <link>https://jberrio-fdz.github.io/2425jberrio/</link> 
        <description>Este es el RSS de la web</description>
 		<language>es-es</language>
-<!--
       <item>
         <title>Nueva actividad</title> 
           <link>https://jberrio-fdz.github.io/2425jberrio/actividades.html</link> 
@@ -15,11 +14,10 @@
 		  <pubDate>Fri, 14 Feb 2025</pubDate>
 		  
       </item>
--->
-	  <item>
+      <item>
         <title>Abrimos un blog</title> 
           <link>https://jberrio-fdz.github.io/2425jberrio/qsomos.html</link> 
-          <description>En Febrero comenzamos con el blog de la sociedad</description>
+          <description>En Febrero publicamos nuestra revista semanal</description>
 		  <author>Gastronomika</author>
 		  <pubDate>Mon, 10 Feb 2025</pubDate>
 		  
