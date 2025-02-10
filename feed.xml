@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+  <channel>
+    <title>Gastronomika en Vitoria</title> 
+       <link>https://jberrio-fdz.github.io/2425jberrio/</link> 
+       <description>Este es el RSS de la web</description>
+		<language>es-es</language>
+<!--
+      <item>
+        <title>evento Marzo</title> 
+          <link>https://jberrio-fdz.github.io/2425jberrio/eventos</link> 
+          <description>Cada mes tenemos muchos eventos</description> 
+      </item>
+
+	  <item>
+        <title>evento Abril</title> 
+          <link>https://jberrio-fdz.github.io/2425jberrio/eventos</link> 
+          <description>Cada mes tenemos muchos eventos</description>
+      </item>
+-->	  
+  </channel>
+</rss>
